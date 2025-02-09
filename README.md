@@ -1,5 +1,5 @@
 # Project Background
-This project will be using the transactional data for a UK e-commerce retail site. The company mainly sells unique all-occasion gifts with many customers being wholesalers.
+This project will be using the transactional data for a UK e-commerce retail site. The company mainly sells unique all-occasion gifts with customers primarily being wholesalers.
 
 We will throughly analyze and synthesize the data provided to uncover critical insights and provide valuable recommendations to increase their commercial success.
 
@@ -10,16 +10,35 @@ Insights and recommendations will be provided in the following areas:
 * Product Performance: Evaluation of product performance throughout the year and in different regions.
 
 An interactive Tableau Dashboard can be found [HERE].
+
 The Python code used to clean, analyze, and transform the data can be found [HERE].
 
-# Basic Overview of the Data
+### Basic Overview of the Data
 The uncleaned and unaltered data can be found [HERE].
 
 The cleaned and transformed data can be found [HERE].
 
-The unaltered data consists of 8 columns: InvoiceNo, StockCode, Description, InvoiceDate, Quantity, UnitPrice, CustomerID, and Country.
+The unaltered data consists of 8 columns: InvoiceNo, StockCode, Description, InvoiceDate, Quantity, UnitPrice, CustomerID, and Country. It has a total row count of 541,910 rows.
 
-The transformed data separates the InvoiceDate into Month, Day of the Week, and Time of Purchase. It also adds a column for totals by multiplying Quantity and Unit price.
+The transformed data separates the InvoiceDate into Month, Day of the Week, and Time of Purchase. It also adds a column for totals by multiplying Quantity and Unit price. It has a total row count of [INSERT ROW COUNT] rows.
 
 The transformed data consists of 11 columns: InvoiceNo, StockCode, Description, Quantity, UnitPrice, CustomerID, Country, Year, Day, Time, and Totals. 
+
+# Executive Summary
+
+### Overview of Findings 
+Unsurprisingly, the company's peak revenue was achieved during the latter half of the year, approaching Christmas. Surprisingly though, this increase in revenue starts in September which experiences a 33% boost in revenue and a 25% increase in order volume compared to August. Though this is the largest percentwise change between months; overall revenue and order volume peaks in November with a 26% increase in revenue and a 23% increase in order volume compared to October. We'll explore below on how we can further capitalize on this trend and use customer purchasing behavior displayed during this time to try and increase revenue during other parts of the year.
+
+
+### Sales Trends
+* The company achieved an overall revenue of £9,747,747.93 in this timeframe with 22,061 orders. 
+* Company sales peaked in November with 3,021 orders totaling £1,461,756.25 in monthly revenue, corresponding with proximity to the holidays in December.
+* Though sales dropped in December, it was still the second highest in the year with 2,568 orders totaling £1,182,625.03 in revenue.
+* Other holidays did not reach anywhere near these peaks, with February having the lowest order volume at 1,174 and second lowest earnings at £498,062.65 despite Valentine's Day being a gift-giving holiday.
+
+![image](https://github.com/user-attachments/assets/13022da4-44dc-4df7-9ded-79bc0a9a5816)
+
+
+### Customer Profile Analysis
+* We used Machine Learning algorithms to 
 
