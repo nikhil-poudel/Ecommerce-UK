@@ -14,7 +14,6 @@ An interactive Tableau Dashboard can be found [HERE].
 The Python code used to clean, analyze, and transform the data can be found in the following notebook [HERE].
 
 ### Basic Overview of the Data
-The uncleaned and unaltered data can be found [HERE].
 
 The cleaned and transformed data can be found [HERE].
 
