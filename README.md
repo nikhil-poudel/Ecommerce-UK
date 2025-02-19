@@ -41,15 +41,32 @@ Unsurprisingly, the company's peak revenue was achieved during the latter half o
 
 ### Customer Profile Analysis
 * Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations.
+#### Product Support  
 * For example, the most popular combination was the Jumbo Bag Pink Polkadot and Jumbo Bag Red being present in 4.1% of all orders.
 * Using this, we can target product recommendations to facilitate cross-selling, below is a useful heatmap that shows some of our most popular combinations which can be used in that regard.
+* In regards to recommendations provided later, we'll refer to this value as "Product Support".
 
-![image](https://github.com/user-attachments/assets/33dcb6be-db8a-4217-aa03-2b7489f09031)
-
+  ![image](https://github.com/user-attachments/assets/33dcb6be-db8a-4217-aa03-2b7489f09031)
+  
+#### Lift
 * Another key insight we uncovered was that certain products had a much higher probability of being bought together, rather than separately.
 * These indicate strong relationships between products which can be leveraged through marketing strategies like product bundling.
 * The value we're looking at is a ratio, so any number higher than 1 is a great sign of a meaningful relationship.
+* In regards to recommendations provided later, we'll refer to this value as "Lift".
 
-![image](https://github.com/user-attachments/assets/e0998d44-a7bc-4a99-bf33-61d9d82aea40)
+  ![image](https://github.com/user-attachments/assets/e0998d44-a7bc-4a99-bf33-61d9d82aea40)
+
+#### Description Frequency
+* Analyzing the text descriptions of purchased products, we noticed some interesting trends with regards to the word 'Christmas'.
+* Coinciding with the sharp revenue increase in September, we notice that the presence of the word 'Christmas' in products sold increases by 290% between August and September.
+* Also between July and August, the occurrence of the word 'Christmas' increases by 59%.
+* This tells us that our shoppers seem to start shopping for holiday related items earlier than expected, starting at around August to September.
+
+<img src="" width="200"/> <img src="" width="300"/>
+
+
+
+
+
 
 
