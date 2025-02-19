@@ -40,5 +40,16 @@ Unsurprisingly, the company's peak revenue was achieved during the latter half o
 
 
 ### Customer Profile Analysis
-* We used Machine Learning algorithms to 
+* Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations.
+* For example, the most popular combination was the Jumbo Bag Pink Polkadot and Jumbo Bag Red being present in 4.1% of all orders.
+* Using this, we can target product recommendations to facilitate cross-selling, below is a useful heatmap that shows some of our most popular combinations which can be used in that regard.
+
+![image](https://github.com/user-attachments/assets/33dcb6be-db8a-4217-aa03-2b7489f09031)
+
+* Another key insight we uncovered was that certain products had a much higher probability of being bought together, rather than separately.
+* These indicate strong relationships between products which can be leveraged through marketing strategies like product bundling.
+* The value we're looking at is a ratio, so any number higher than 1 is a great sign of a meaningful relationship.
+
+![image](https://github.com/user-attachments/assets/e0998d44-a7bc-4a99-bf33-61d9d82aea40)
+
 
