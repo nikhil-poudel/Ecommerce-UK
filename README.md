@@ -11,7 +11,8 @@ Insights and recommendations will be provided in the following areas:
 
 An interactive Tableau Dashboard can be found [HERE].
 
-The Python code used to clean, analyze, and transform the data can be found in the following notebook [HERE].
+The Python code used to clean and transform the data can be found in the following notebook [here] (Ecommerce_UK_Cleaning.ipynb).
+The Python code used to analyze the data with ML Functions can be found in the following notebook [here] (Ecommerce_uk_MLFunctions.ipynb).
 
 ### Basic Overview of the Data
 
