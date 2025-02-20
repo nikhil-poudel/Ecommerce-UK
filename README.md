@@ -15,11 +15,11 @@ The Python code used to clean, analyze, and transform the data can be found in t
 
 ### Basic Overview of the Data
 
-The cleaned and transformed data can be found [HERE].
+The cleaned and transformed data can be found [here](ecommerceUK_cleaned.rar).
 
-The unaltered data consists of 8 columns: InvoiceNo, StockCode, Description, InvoiceDate, Quantity, UnitPrice, CustomerID, and Country.
+The unaltered data consists of 8 columns: InvoiceNo, StockCode, Description, InvoiceDate, Quantity, UnitPrice, CustomerID, and Country. It has a total row count of 541,910 rows.
 
-The transformed data separates the InvoiceDate into Month, Day of the Week, and Time of Purchase. It also adds a column for totals by multiplying Quantity and Unit price. It has a total row count of 541,910 rows.
+The transformed data separates the InvoiceDate into Month, Day of the Week, and Time of Purchase. It also adds a column for totals by multiplying Quantity and Unit price. It has a total row count of 530,693 rows.
 
 The transformed data consists of 11 columns: InvoiceNo, StockCode, Description, Quantity, UnitPrice, CustomerID, Country, Year, Day, Time, and Totals. 
 
@@ -55,7 +55,8 @@ Unsurprisingly, the company's peak revenue was achieved during the latter half o
 * The value we're looking at is a ratio, so any number higher than 1 is a sign of a meaningful relationship.
 * In regards to recommendations provided later, we'll refer to this value as "_Lift_".
 
-![image](https://github.com/user-attachments/assets/e0998d44-a7bc-4a99-bf33-61d9d82aea40)
+![image](https://github.com/user-attachments/assets/5cf63762-6ebb-4d4b-aa19-8f6427e1fe60)
+
 
 #### Description Frequency
 * Analyzing the text descriptions of purchased products, we noticed some interesting trends with regards to the word 'Christmas'.
