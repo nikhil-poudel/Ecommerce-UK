@@ -43,7 +43,7 @@ Unsurprisingly, the company's peak revenue was achieved during the latter half o
 
 
 ### Customer Profile Analysis
-Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations.
+Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations. Here are the insights we gained from that:
   
 #### Product Support  
 * For example the most popular combination was the Jumbo Bag Pink Polkadot and Jumbo Bag Red, being present in 4.1% of all orders.
@@ -74,7 +74,11 @@ Using Machine Learning algorithms, we were able to analyze customer purchasing b
 
 With the insights that we've unearthed, we recommend the following:
 * September experienced the largest increase in revenue (33%) and order volume (25%), capitalizing on that sudden sales boost should be high-priority. **Starting promotional campaigns towards the end of August and early September would provide the sudden wave of customers, who are already eager to purchase, incentive to purchase more.**
+
 * For orders placed, the presence of the word "christmas" increased by 290% in September with almost every subsequent month continuing this trend. Similarly, other product descriptors like "red", "vintage", and "heart" also experienced high interest from customers. **Doing something as simple as re-branding merchandise to have "Christmas" or another popular descriptor in its description would be a great way to boost customer sentiment without much effort.**
+
 * Order volume continually increases almost every month after August with November reaching a peak that exceeds August's volume by over 100%. **It is advisable re-evaluate inventory and stock up on holiday related items as early as August to ensure that such order volumes can be met.**
+
 * _Product Support_ shows that we have multiple product combinations that appear together relatively frequently in orders. For example, the Alarm Clock BakeLike Green and the Alarm Clock BakeLike Red products are present together in 3.2% of all orders but (looking at the confidence value) it's only 65% likely that someone buying the former also buys the latter. **We recommend using this to generate product recommendations, giving the 35% of people who only bought the former product the idea to buy the latter provides a great cross-selling opportunities.**
+
 * _Lift_ shows that there are product combinations that are bought together far more frequently than they are separately. **This provides a unique opportunity where promotional strategies such as bundling could be useful. If customers are already looking to buy two separate products together, then upselling them by offering those products bundled with a third related product could be effective.**
