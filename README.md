@@ -43,7 +43,7 @@ Unsurprisingly, the company's peak revenue was achieved during the latter half o
 
 
 ### Customer Profile Analysis
-* Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations.
+Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations.
   
 #### Product Support  
 * For example the most popular combination was the Jumbo Bag Pink Polkadot and Jumbo Bag Red, being present in 4.1% of all orders.
