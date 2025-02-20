@@ -9,7 +9,7 @@ Insights and recommendations will be provided in the following areas:
 * Customer Profile Analysis: Analysis of customer purchasing behavior to better understand what products were bought together most frequently and what product descriptors interested customers the most.
 * Product Performance: Evaluation of product performance throughout the year and in different regions.
 
-An interactive Tableau Dashboard can be found [HERE].
+An interactive Tableau Dashboard can be found [here](https://public.tableau.com/shared/6FN5TPWRW?:display_count=n&:origin=viz_share_link).
 
 The Python code used to clean and transform the data can be found in the following notebook [here](Ecommerce_UK_Cleaning.ipynb).
 
