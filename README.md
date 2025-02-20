@@ -15,9 +15,9 @@ The Python code used to clean, analyze, and transform the data can be found in t
 
 ### Basic Overview of the Data
 
-The unaltered data can be downloaded [here]().
+The unaltered data can be downloaded [here](ecommerceUK_RAW.rar).
 
-The cleaned and transformed data can be downloaded [here](ecommerceUK_cleaned.rar).
+The cleaned and transformed data can be downloaded [here](ecommerceUK_CLEANED.rar).
 
 The unaltered data consists of 8 columns: InvoiceNo, StockCode, Description, InvoiceDate, Quantity, UnitPrice, CustomerID, and Country. It has a total row count of 541,910 rows.
 
