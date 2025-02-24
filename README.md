@@ -55,9 +55,12 @@ Using Machine Learning algorithms, we were able to analyze customer purchasing b
   
 #### Lift
 * Another key insight we uncovered was that certain products had a much higher probability of being bought together, rather than separately.
+* We'll refer to this value as "_Lift_".
 * These indicate strong relationships between products which can be leveraged through marketing strategies like product bundling.
 * The value we're looking at is a ratio, so any number higher than 1 is a sign of a meaningful relationship.
-* In regards to recommendations provided later, we'll refer to this value as "_Lift_".
+* With that in mind, we note that we have several products that far exceed that ratio, meaning customers are many times more likely to buy them together rather than separately.
+* Below is a heatmap that accurately displays products with the greatest lift values, note that these lift values are ranging from 40-70 showing a high degree of dependence.
+
 
 ![image](https://github.com/user-attachments/assets/5cf63762-6ebb-4d4b-aa19-8f6427e1fe60)
 
