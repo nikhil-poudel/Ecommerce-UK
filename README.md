@@ -31,7 +31,7 @@ The transformed data consists of 11 columns: InvoiceNo, StockCode, Description, 
 ### Overview of Findings 
 Unsurprisingly, the company's peak revenue was achieved during the latter half of the year, approaching Christmas. Surprisingly though, this increase in revenue starts in September which experiences a 33% boost in revenue and a 25% increase in order volume compared to August. Though this is the largest percentwise change between months; overall revenue and order volume peaks in November with a 26% increase in revenue and a 23% increase in order volume compared to October. We'll explore below on how we can further capitalize on this trend using customer purchasing behavior displayed during this time.
 
-
+# Insights Deep Dive
 ### Sales Trends
 * The company achieved an overall revenue of £9,747,747.93 in this timeframe with 22,061 orders. 
 * Company sales peaked in November with 3,021 orders totaling £1,461,756.25 in monthly revenue, corresponding with proximity to the holidays in December.
