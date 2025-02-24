@@ -46,7 +46,7 @@ Unsurprisingly, the company's peak revenue was achieved during the latter half o
 Using Machine Learning algorithms, we were able to analyze customer purchasing behavior to identify the most popular product combinations. Here are the insights we gained from that:
   
 #### Product Support  
-* For example the most popular combination was the Jumbo Bag Pink Polkadot and Jumbo Bag Red, being present in 4.1% of all orders.
+* This is the probability of customers buying a certain combination of products in an order. For example the most popular combination was the Jumbo Bag Pink Polkadot and Jumbo Bag Red, being present in 4.1% of all orders.
 * Using this we can target product recommendations to facilitate cross-selling; below is a useful heatmap that shows some of the most popular combinations.
 * In regards to recommendations provided later, we'll refer to this value as "_Product Support_".
 
